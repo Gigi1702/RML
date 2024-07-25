@@ -1,0 +1,11 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies: 
+  - r= 4.0
+  - r-ggplot2
+  - r-plotly
+  - r-caret
+  - r-randomForest
+  - r-kernlab
+  - r-ellipse
