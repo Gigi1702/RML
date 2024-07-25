@@ -7,7 +7,7 @@ Access this Binder by clicking the blue badge above or at the following URL:
 
 https://mybinder.org/v2/gh/Gigi1702/RML/HEAD
 
-This project is adapted from the tuotrial "Your First Machine Learning Project in R Step-By-Step" by Jason Brownlee.
+This project is adapted from the tutorial "Your First Machine Learning Project in R Step-By-Step" by Jason Brownlee.
 
 https://machinelearningmastery.com/machine-learning-in-r-step-by-step/Links to an external site. 
 
